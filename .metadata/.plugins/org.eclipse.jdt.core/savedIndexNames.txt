@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Gurukrupa\eclipse-workspace\SeleniumJavaTraining11thNovBatch\Seleniumjava\RestAssuredAutomationFramework\.metadata\.plugins\org.eclipse.jdt.core
